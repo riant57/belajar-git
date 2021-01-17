@@ -2,6 +2,7 @@ Belajar Frontend
  - Vue
  - React
  - Angular
- - Belajar Struktur Data
-PHP Framework
- - Codeigniter
+
+PHP framework
+ - Laravel
+
